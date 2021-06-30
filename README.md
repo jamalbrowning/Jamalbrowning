@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamalbrowning
-- 🌱 I’m currently learning Python| Django | React.js
-- 💞️ I’m looking to collaborate on projects that need any sort of help. I would really love to develop more experience.
+- I work at Accenture as a Software Engineer Associate
+- 🌱 I specialize in  Python| Django | React.js
 - 📫 How to reach me : jamalebrowning@gmail.com or you can Dm me @jamal_io on twitter
 
 <!---
